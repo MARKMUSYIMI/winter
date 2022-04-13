@@ -1,3 +1,0 @@
-hello = function () {
-        alert('hello');
-}
